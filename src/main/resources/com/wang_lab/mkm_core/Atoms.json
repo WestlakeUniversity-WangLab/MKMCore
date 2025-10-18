@@ -1,0 +1,1042 @@
+[
+  {
+    "index": 0,
+    "symbol": "X",
+    "name": "",
+    "mass": 1.0,
+    "common_mass": 1.0,
+    "covalent_radii": "NaN",
+    "vdw_radii": "NaN",
+    "magnetic_moments": "NaN"
+  },
+  {
+    "index": 1,
+    "symbol": "H",
+    "name": "Hydrogen",
+    "mass": 1.008,
+    "common_mass": 1.00782503223,
+    "covalent_radii": 0.31,
+    "vdw_radii": 1.2,
+    "magnetic_moments": 1.0
+  },
+  {
+    "index": 2,
+    "symbol": "He",
+    "name": "Helium",
+    "mass": 4.002602,
+    "common_mass": 4.00260325413,
+    "covalent_radii": 0.28,
+    "vdw_radii": 1.4,
+    "magnetic_moments": "NaN"
+  },
+  {
+    "index": 3,
+    "symbol": "Li",
+    "name": "Lithium",
+    "mass": 6.94,
+    "common_mass": 7.0160034366,
+    "covalent_radii": 1.28,
+    "vdw_radii": 1.82,
+    "magnetic_moments": 1.0
+  },
+  {
+    "index": 4,
+    "symbol": "Be",
+    "name": "Beryllium",
+    "mass": 9.0121831,
+    "common_mass": 9.012183065,
+    "covalent_radii": 0.96,
+    "vdw_radii": 1.53,
+    "magnetic_moments": "NaN"
+  },
+  {
+    "index": 5,
+    "symbol": "B",
+    "name": "Boron",
+    "mass": 10.81,
+    "common_mass": 11.00930536,
+    "covalent_radii": 0.84,
+    "vdw_radii": 1.92,
+    "magnetic_moments": 1.0
+  },
+  {
+    "index": 6,
+    "symbol": "C",
+    "name": "Carbon",
+    "mass": 12.011,
+    "common_mass": 12.0,
+    "covalent_radii": 0.76,
+    "vdw_radii": 1.7,
+    "magnetic_moments": 2.0
+  },
+  {
+    "index": 7,
+    "symbol": "N",
+    "name": "Nitrogen",
+    "mass": 14.007,
+    "common_mass": 14.00307400443,
+    "covalent_radii": 0.71,
+    "vdw_radii": 1.55,
+    "magnetic_moments": 3.0
+  },
+  {
+    "index": 8,
+    "symbol": "O",
+    "name": "Oxygen",
+    "mass": 15.999,
+    "common_mass": 15.99491461957,
+    "covalent_radii": 0.66,
+    "vdw_radii": 1.52,
+    "magnetic_moments": 2.0
+  },
+  {
+    "index": 9,
+    "symbol": "F",
+    "name": "Fluorine",
+    "mass": 18.998403163,
+    "common_mass": 18.99840316273,
+    "covalent_radii": 0.57,
+    "vdw_radii": 1.47,
+    "magnetic_moments": 1.0
+  },
+  {
+    "index": 10,
+    "symbol": "Ne",
+    "name": "Neon",
+    "mass": 20.1797,
+    "common_mass": 19.9924401762,
+    "covalent_radii": 0.58,
+    "vdw_radii": 1.54,
+    "magnetic_moments": "NaN"
+  },
+  {
+    "index": 11,
+    "symbol": "Na",
+    "name": "Sodium",
+    "mass": 22.98976928,
+    "common_mass": 22.989769282,
+    "covalent_radii": 1.66,
+    "vdw_radii": 2.27,
+    "magnetic_moments": 1.0
+  },
+  {
+    "index": 12,
+    "symbol": "Mg",
+    "name": "Magnesium",
+    "mass": 24.305,
+    "common_mass": 23.985041697,
+    "covalent_radii": 1.41,
+    "vdw_radii": 1.73,
+    "magnetic_moments": "NaN"
+  },
+  {
+    "index": 13,
+    "symbol": "Al",
+    "name": "Aluminium",
+    "mass": 26.9815385,
+    "common_mass": 26.98153853,
+    "covalent_radii": 1.21,
+    "vdw_radii": 1.84,
+    "magnetic_moments": 1.0
+  },
+  {
+    "index": 14,
+    "symbol": "Si",
+    "name": "Silicon",
+    "mass": 28.085,
+    "common_mass": 27.97692653465,
+    "covalent_radii": 1.11,
+    "vdw_radii": 2.1,
+    "magnetic_moments": 2.0
+  },
+  {
+    "index": 15,
+    "symbol": "P",
+    "name": "Phosphorus",
+    "mass": 30.973761998,
+    "common_mass": 30.97376199842,
+    "covalent_radii": 1.07,
+    "vdw_radii": 1.8,
+    "magnetic_moments": 3.0
+  },
+  {
+    "index": 16,
+    "symbol": "S",
+    "name": "Sulfur",
+    "mass": 32.06,
+    "common_mass": 31.9720711744,
+    "covalent_radii": 1.05,
+    "vdw_radii": 1.8,
+    "magnetic_moments": 2.0
+  },
+  {
+    "index": 17,
+    "symbol": "Cl",
+    "name": "Chlorine",
+    "mass": 35.45,
+    "common_mass": 34.968852682,
+    "covalent_radii": 1.02,
+    "vdw_radii": 1.75,
+    "magnetic_moments": 1.0
+  },
+  {
+    "index": 18,
+    "symbol": "Ar",
+    "name": "Argon",
+    "mass": 39.948,
+    "common_mass": 39.9623831237,
+    "covalent_radii": 1.06,
+    "vdw_radii": 1.88,
+    "magnetic_moments": "NaN"
+  },
+  {
+    "index": 19,
+    "symbol": "K",
+    "name": "Potassium",
+    "mass": 39.0983,
+    "common_mass": 38.9637064864,
+    "covalent_radii": 2.03,
+    "vdw_radii": 2.75,
+    "magnetic_moments": 1.0
+  },
+  {
+    "index": 20,
+    "symbol": "Ca",
+    "name": "Calcium",
+    "mass": 40.078,
+    "common_mass": 39.962590863,
+    "covalent_radii": 1.76,
+    "vdw_radii": 2.31,
+    "magnetic_moments": "NaN"
+  },
+  {
+    "index": 21,
+    "symbol": "Sc",
+    "name": "Scandium",
+    "mass": 44.955908,
+    "common_mass": 44.95590828,
+    "covalent_radii": 1.7,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 1.0
+  },
+  {
+    "index": 22,
+    "symbol": "Ti",
+    "name": "Titanium",
+    "mass": 47.867,
+    "common_mass": 47.94794198,
+    "covalent_radii": 1.6,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 2.0
+  },
+  {
+    "index": 23,
+    "symbol": "V",
+    "name": "Vanadium",
+    "mass": 50.9415,
+    "common_mass": 50.94395704,
+    "covalent_radii": 1.53,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 3.0
+  },
+  {
+    "index": 24,
+    "symbol": "Cr",
+    "name": "Chromium",
+    "mass": 51.9961,
+    "common_mass": 51.94050623,
+    "covalent_radii": 1.39,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 6.0
+  },
+  {
+    "index": 25,
+    "symbol": "Mn",
+    "name": "Manganese",
+    "mass": 54.938044,
+    "common_mass": 54.93804391,
+    "covalent_radii": 1.39,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 5.0
+  },
+  {
+    "index": 26,
+    "symbol": "Fe",
+    "name": "Iron",
+    "mass": 55.845,
+    "common_mass": 55.93493633,
+    "covalent_radii": 1.32,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 4.0
+  },
+  {
+    "index": 27,
+    "symbol": "Co",
+    "name": "Cobalt",
+    "mass": 58.933194,
+    "common_mass": 58.93319429,
+    "covalent_radii": 1.26,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 3.0
+  },
+  {
+    "index": 28,
+    "symbol": "Ni",
+    "name": "Nickel",
+    "mass": 58.6934,
+    "common_mass": 57.93534241,
+    "covalent_radii": 1.24,
+    "vdw_radii": 1.63,
+    "magnetic_moments": 2.0
+  },
+  {
+    "index": 29,
+    "symbol": "Cu",
+    "name": "Copper",
+    "mass": 63.546,
+    "common_mass": 62.92959772,
+    "covalent_radii": 1.32,
+    "vdw_radii": 1.4,
+    "magnetic_moments": 1.0
+  },
+  {
+    "index": 30,
+    "symbol": "Zn",
+    "name": "Zinc",
+    "mass": 65.38,
+    "common_mass": 63.92914201,
+    "covalent_radii": 1.22,
+    "vdw_radii": 1.39,
+    "magnetic_moments": "NaN"
+  },
+  {
+    "index": 31,
+    "symbol": "Ga",
+    "name": "Gallium",
+    "mass": 69.723,
+    "common_mass": 68.9255735,
+    "covalent_radii": 1.22,
+    "vdw_radii": 1.87,
+    "magnetic_moments": 1.0
+  },
+  {
+    "index": 32,
+    "symbol": "Ge",
+    "name": "Germanium",
+    "mass": 72.63,
+    "common_mass": 73.921177761,
+    "covalent_radii": 1.2,
+    "vdw_radii": 2.11,
+    "magnetic_moments": 2.0
+  },
+  {
+    "index": 33,
+    "symbol": "As",
+    "name": "Arsenic",
+    "mass": 74.921595,
+    "common_mass": 74.92159457,
+    "covalent_radii": 1.19,
+    "vdw_radii": 1.85,
+    "magnetic_moments": 3.0
+  },
+  {
+    "index": 34,
+    "symbol": "Se",
+    "name": "Selenium",
+    "mass": 78.971,
+    "common_mass": 79.9165218,
+    "covalent_radii": 1.2,
+    "vdw_radii": 1.9,
+    "magnetic_moments": 2.0
+  },
+  {
+    "index": 35,
+    "symbol": "Br",
+    "name": "Bromine",
+    "mass": 79.904,
+    "common_mass": 78.9183376,
+    "covalent_radii": 1.2,
+    "vdw_radii": 1.85,
+    "magnetic_moments": 1.0
+  },
+  {
+    "index": 36,
+    "symbol": "Kr",
+    "name": "Krypton",
+    "mass": 83.798,
+    "common_mass": 83.9114977282,
+    "covalent_radii": 1.16,
+    "vdw_radii": 2.02,
+    "magnetic_moments": "NaN"
+  },
+  {
+    "index": 37,
+    "symbol": "Rb",
+    "name": "Rubidium",
+    "mass": 85.4678,
+    "common_mass": 84.9117897379,
+    "covalent_radii": 2.2,
+    "vdw_radii": 3.03,
+    "magnetic_moments": 1.0
+  },
+  {
+    "index": 38,
+    "symbol": "Sr",
+    "name": "Strontium",
+    "mass": 87.62,
+    "common_mass": 87.9056125,
+    "covalent_radii": 1.95,
+    "vdw_radii": 2.49,
+    "magnetic_moments": "NaN"
+  },
+  {
+    "index": 39,
+    "symbol": "Y",
+    "name": "Yttrium",
+    "mass": 88.90584,
+    "common_mass": 88.9058403,
+    "covalent_radii": 1.9,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 1.0
+  },
+  {
+    "index": 40,
+    "symbol": "Zr",
+    "name": "Zirconium",
+    "mass": 91.224,
+    "common_mass": 89.9046977,
+    "covalent_radii": 1.75,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 2.0
+  },
+  {
+    "index": 41,
+    "symbol": "Nb",
+    "name": "Niobium",
+    "mass": 92.90637,
+    "common_mass": 92.906373,
+    "covalent_radii": 1.64,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 5.0
+  },
+  {
+    "index": 42,
+    "symbol": "Mo",
+    "name": "Molybdenum",
+    "mass": 95.95,
+    "common_mass": 97.90540482,
+    "covalent_radii": 1.54,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 6.0
+  },
+  {
+    "index": 43,
+    "symbol": "Tc",
+    "name": "Technetium",
+    "mass": 97.90721,
+    "common_mass": 96.9063667,
+    "covalent_radii": 1.47,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 5.0
+  },
+  {
+    "index": 44,
+    "symbol": "Ru",
+    "name": "Ruthenium",
+    "mass": 101.07,
+    "common_mass": 101.9043441,
+    "covalent_radii": 1.46,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 4.0
+  },
+  {
+    "index": 45,
+    "symbol": "Rh",
+    "name": "Rhodium",
+    "mass": 102.9055,
+    "common_mass": 102.905498,
+    "covalent_radii": 1.42,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 3.0
+  },
+  {
+    "index": 46,
+    "symbol": "Pd",
+    "name": "Palladium",
+    "mass": 106.42,
+    "common_mass": 105.9034804,
+    "covalent_radii": 1.39,
+    "vdw_radii": 1.63,
+    "magnetic_moments": "NaN"
+  },
+  {
+    "index": 47,
+    "symbol": "Ag",
+    "name": "Silver",
+    "mass": 107.8682,
+    "common_mass": 106.9050916,
+    "covalent_radii": 1.45,
+    "vdw_radii": 1.72,
+    "magnetic_moments": 1.0
+  },
+  {
+    "index": 48,
+    "symbol": "Cd",
+    "name": "Cadmium",
+    "mass": 112.414,
+    "common_mass": 113.90336509,
+    "covalent_radii": 1.44,
+    "vdw_radii": 1.58,
+    "magnetic_moments": "NaN"
+  },
+  {
+    "index": 49,
+    "symbol": "In",
+    "name": "Indium",
+    "mass": 114.818,
+    "common_mass": 114.903878776,
+    "covalent_radii": 1.42,
+    "vdw_radii": 1.93,
+    "magnetic_moments": 1.0
+  },
+  {
+    "index": 50,
+    "symbol": "Sn",
+    "name": "Tin",
+    "mass": 118.71,
+    "common_mass": 119.90220163,
+    "covalent_radii": 1.39,
+    "vdw_radii": 2.17,
+    "magnetic_moments": 2.0
+  },
+  {
+    "index": 51,
+    "symbol": "Sb",
+    "name": "Antimony",
+    "mass": 121.76,
+    "common_mass": 120.903812,
+    "covalent_radii": 1.39,
+    "vdw_radii": 2.06,
+    "magnetic_moments": 3.0
+  },
+  {
+    "index": 52,
+    "symbol": "Te",
+    "name": "Tellurium",
+    "mass": 127.6,
+    "common_mass": 129.906222748,
+    "covalent_radii": 1.38,
+    "vdw_radii": 2.06,
+    "magnetic_moments": 2.0
+  },
+  {
+    "index": 53,
+    "symbol": "I",
+    "name": "Iodine",
+    "mass": 126.90447,
+    "common_mass": 126.9044719,
+    "covalent_radii": 1.39,
+    "vdw_radii": 1.98,
+    "magnetic_moments": 1.0
+  },
+  {
+    "index": 54,
+    "symbol": "Xe",
+    "name": "Xenon",
+    "mass": 131.293,
+    "common_mass": 131.9041550856,
+    "covalent_radii": 1.4,
+    "vdw_radii": 2.16,
+    "magnetic_moments": "NaN"
+  },
+  {
+    "index": 55,
+    "symbol": "Cs",
+    "name": "Caesium",
+    "mass": 132.90545196,
+    "common_mass": 132.905451961,
+    "covalent_radii": 2.44,
+    "vdw_radii": 3.43,
+    "magnetic_moments": 1.0
+  },
+  {
+    "index": 56,
+    "symbol": "Ba",
+    "name": "Barium",
+    "mass": 137.327,
+    "common_mass": 137.905247,
+    "covalent_radii": 2.15,
+    "vdw_radii": 2.49,
+    "magnetic_moments": "NaN"
+  },
+  {
+    "index": 57,
+    "symbol": "La",
+    "name": "Lanthanum",
+    "mass": 138.90547,
+    "common_mass": 138.9063563,
+    "covalent_radii": 2.07,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 1.0
+  },
+  {
+    "index": 58,
+    "symbol": "Ce",
+    "name": "Cerium",
+    "mass": 140.116,
+    "common_mass": 139.9054431,
+    "covalent_radii": 2.04,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 1.0
+  },
+  {
+    "index": 59,
+    "symbol": "Pr",
+    "name": "Praseodymium",
+    "mass": 140.90766,
+    "common_mass": 140.9076576,
+    "covalent_radii": 2.03,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 3.0
+  },
+  {
+    "index": 60,
+    "symbol": "Nd",
+    "name": "Neodymium",
+    "mass": 144.242,
+    "common_mass": 141.907729,
+    "covalent_radii": 2.01,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 4.0
+  },
+  {
+    "index": 61,
+    "symbol": "Pm",
+    "name": "Promethium",
+    "mass": 144.91276,
+    "common_mass": 144.9127559,
+    "covalent_radii": 1.99,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 5.0
+  },
+  {
+    "index": 62,
+    "symbol": "Sm",
+    "name": "Samarium",
+    "mass": 150.36,
+    "common_mass": 151.9197397,
+    "covalent_radii": 1.98,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 6.0
+  },
+  {
+    "index": 63,
+    "symbol": "Eu",
+    "name": "Europium",
+    "mass": 151.964,
+    "common_mass": 152.921238,
+    "covalent_radii": 1.98,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 7.0
+  },
+  {
+    "index": 64,
+    "symbol": "Gd",
+    "name": "Gadolinium",
+    "mass": 157.25,
+    "common_mass": 157.9241123,
+    "covalent_radii": 1.96,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 8.0
+  },
+  {
+    "index": 65,
+    "symbol": "Tb",
+    "name": "Terbium",
+    "mass": 158.92535,
+    "common_mass": 158.9253547,
+    "covalent_radii": 1.94,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 5.0
+  },
+  {
+    "index": 66,
+    "symbol": "Dy",
+    "name": "Dysprosium",
+    "mass": 162.5,
+    "common_mass": 163.9291819,
+    "covalent_radii": 1.92,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 4.0
+  },
+  {
+    "index": 67,
+    "symbol": "Ho",
+    "name": "Holmium",
+    "mass": 164.93033,
+    "common_mass": 164.9303288,
+    "covalent_radii": 1.92,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 3.0
+  },
+  {
+    "index": 68,
+    "symbol": "Er",
+    "name": "Erbium",
+    "mass": 167.259,
+    "common_mass": 165.9302995,
+    "covalent_radii": 1.89,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 2.0
+  },
+  {
+    "index": 69,
+    "symbol": "Tm",
+    "name": "Thulium",
+    "mass": 168.93422,
+    "common_mass": 168.9342179,
+    "covalent_radii": 1.9,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 1.0
+  },
+  {
+    "index": 70,
+    "symbol": "Yb",
+    "name": "Ytterbium",
+    "mass": 173.054,
+    "common_mass": 173.9388664,
+    "covalent_radii": 1.87,
+    "vdw_radii": "NaN",
+    "magnetic_moments": "NaN"
+  },
+  {
+    "index": 71,
+    "symbol": "Lu",
+    "name": "Lutetium",
+    "mass": 174.9668,
+    "common_mass": 174.9407752,
+    "covalent_radii": 1.87,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 1.0
+  },
+  {
+    "index": 72,
+    "symbol": "Hf",
+    "name": "Hafnium",
+    "mass": 178.49,
+    "common_mass": 179.946557,
+    "covalent_radii": 1.75,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 2.0
+  },
+  {
+    "index": 73,
+    "symbol": "Ta",
+    "name": "Tantalum",
+    "mass": 180.94788,
+    "common_mass": 180.9479958,
+    "covalent_radii": 1.7,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 3.0
+  },
+  {
+    "index": 74,
+    "symbol": "W",
+    "name": "Tungsten",
+    "mass": 183.84,
+    "common_mass": 183.95093092,
+    "covalent_radii": 1.62,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 4.0
+  },
+  {
+    "index": 75,
+    "symbol": "Re",
+    "name": "Rhenium",
+    "mass": 186.207,
+    "common_mass": 186.9557501,
+    "covalent_radii": 1.51,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 5.0
+  },
+  {
+    "index": 76,
+    "symbol": "Os",
+    "name": "Osmium",
+    "mass": 190.23,
+    "common_mass": 191.961477,
+    "covalent_radii": 1.44,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 4.0
+  },
+  {
+    "index": 77,
+    "symbol": "Ir",
+    "name": "Iridium",
+    "mass": 192.217,
+    "common_mass": 192.9629216,
+    "covalent_radii": 1.41,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 3.0
+  },
+  {
+    "index": 78,
+    "symbol": "Pt",
+    "name": "Platinum",
+    "mass": 195.084,
+    "common_mass": 194.9647917,
+    "covalent_radii": 1.36,
+    "vdw_radii": 1.75,
+    "magnetic_moments": 2.0
+  },
+  {
+    "index": 79,
+    "symbol": "Au",
+    "name": "Gold",
+    "mass": 196.966569,
+    "common_mass": 196.96656879,
+    "covalent_radii": 1.36,
+    "vdw_radii": 1.66,
+    "magnetic_moments": 1.0
+  },
+  {
+    "index": 80,
+    "symbol": "Hg",
+    "name": "Mercury",
+    "mass": 200.592,
+    "common_mass": 201.9706434,
+    "covalent_radii": 1.32,
+    "vdw_radii": 1.55,
+    "magnetic_moments": "NaN"
+  },
+  {
+    "index": 81,
+    "symbol": "Tl",
+    "name": "Thallium",
+    "mass": 204.38,
+    "common_mass": 204.9744278,
+    "covalent_radii": 1.45,
+    "vdw_radii": 1.96,
+    "magnetic_moments": 1.0
+  },
+  {
+    "index": 82,
+    "symbol": "Pb",
+    "name": "Lead",
+    "mass": 207.2,
+    "common_mass": 207.9766525,
+    "covalent_radii": 1.46,
+    "vdw_radii": 2.02,
+    "magnetic_moments": 2.0
+  },
+  {
+    "index": 83,
+    "symbol": "Bi",
+    "name": "Bismuth",
+    "mass": 208.9804,
+    "common_mass": 208.9803991,
+    "covalent_radii": 1.48,
+    "vdw_radii": 2.07,
+    "magnetic_moments": 3.0
+  },
+  {
+    "index": 84,
+    "symbol": "Po",
+    "name": "Polonium",
+    "mass": 208.98243,
+    "common_mass": 208.9824308,
+    "covalent_radii": 1.4,
+    "vdw_radii": 1.97,
+    "magnetic_moments": 2.0
+  },
+  {
+    "index": 85,
+    "symbol": "At",
+    "name": "Astatine",
+    "mass": 209.98715,
+    "common_mass": 209.9871479,
+    "covalent_radii": 1.5,
+    "vdw_radii": 2.02,
+    "magnetic_moments": 1.0
+  },
+  {
+    "index": 86,
+    "symbol": "Rn",
+    "name": "Radon",
+    "mass": 222.01758,
+    "common_mass": 222.0175782,
+    "covalent_radii": 1.5,
+    "vdw_radii": 2.2,
+    "magnetic_moments": "NaN"
+  },
+  {
+    "index": 87,
+    "symbol": "Fr",
+    "name": "Francium",
+    "mass": 223.01974,
+    "common_mass": 223.019736,
+    "covalent_radii": 2.6,
+    "vdw_radii": 3.48,
+    "magnetic_moments": 1.0
+  },
+  {
+    "index": 88,
+    "symbol": "Ra",
+    "name": "Radium",
+    "mass": 226.02541,
+    "common_mass": 226.0254103,
+    "covalent_radii": 2.21,
+    "vdw_radii": 2.83,
+    "magnetic_moments": "NaN"
+  },
+  {
+    "index": 89,
+    "symbol": "Ac",
+    "name": "Actinium",
+    "mass": 227.02775,
+    "common_mass": 227.0277523,
+    "covalent_radii": 2.15,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 1.0
+  },
+  {
+    "index": 90,
+    "symbol": "Th",
+    "name": "Thorium",
+    "mass": 232.0377,
+    "common_mass": 232.0380558,
+    "covalent_radii": 2.06,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 2.0
+  },
+  {
+    "index": 91,
+    "symbol": "Pa",
+    "name": "Protactinium",
+    "mass": 231.03588,
+    "common_mass": 231.0358842,
+    "covalent_radii": 2.0,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 3.0
+  },
+  {
+    "index": 92,
+    "symbol": "U",
+    "name": "Uranium",
+    "mass": 238.02891,
+    "common_mass": 238.0507884,
+    "covalent_radii": 1.96,
+    "vdw_radii": 1.86,
+    "magnetic_moments": 4.0
+  },
+  {
+    "index": 93,
+    "symbol": "Np",
+    "name": "Neptunium",
+    "mass": 237.04817,
+    "common_mass": 237.0481736,
+    "covalent_radii": 1.9,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 5.0
+  },
+  {
+    "index": 94,
+    "symbol": "Pu",
+    "name": "Plutonium",
+    "mass": 244.06421,
+    "common_mass": 244.0642053,
+    "covalent_radii": 1.87,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 6.0
+  },
+  {
+    "index": 95,
+    "symbol": "Am",
+    "name": "Americium",
+    "mass": 243.06138,
+    "common_mass": 243.0613813,
+    "covalent_radii": 1.8,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 7.0
+  },
+  {
+    "index": 96,
+    "symbol": "Cm",
+    "name": "Curium",
+    "mass": 247.07035,
+    "common_mass": 247.0703541,
+    "covalent_radii": 1.69,
+    "vdw_radii": "NaN",
+    "magnetic_moments": 8.0
+  },
+  {
+    "index": 97,
+    "symbol": "Bk",
+    "name": "Berkelium",
+    "mass": 247.07031,
+    "common_mass": 247.0703073,
+    "covalent_radii": "NaN",
+    "vdw_radii": "NaN",
+    "magnetic_moments": 5.0
+  },
+  {
+    "index": 98,
+    "symbol": "Cf",
+    "name": "Californium",
+    "mass": 251.07959,
+    "common_mass": 251.0795886,
+    "covalent_radii": "NaN",
+    "vdw_radii": "NaN",
+    "magnetic_moments": 4.0
+  },
+  {
+    "index": 99,
+    "symbol": "Es",
+    "name": "Einsteinium",
+    "mass": 252.083,
+    "common_mass": 252.08298,
+    "covalent_radii": "NaN",
+    "vdw_radii": "NaN",
+    "magnetic_moments": 4.0
+  },
+  {
+    "index": 100,
+    "symbol": "Fm",
+    "name": "Fermium",
+    "mass": 257.09511,
+    "common_mass": 257.0951061,
+    "covalent_radii": "NaN",
+    "vdw_radii": "NaN",
+    "magnetic_moments": 2.0
+  },
+  {
+    "index": 101,
+    "symbol": "Md",
+    "name": "Mendelevium",
+    "mass": 258.09843,
+    "common_mass": 258.0984315,
+    "covalent_radii": "NaN",
+    "vdw_radii": "NaN",
+    "magnetic_moments": 1.0
+  },
+  {
+    "index": 102,
+    "symbol": "No",
+    "name": "Nobelium",
+    "mass": 259.101,
+    "common_mass": 259.10103,
+    "covalent_radii": "NaN",
+    "vdw_radii": "NaN",
+    "magnetic_moments": "NaN"
+  },
+  {
+    "index": 103,
+    "symbol": "Lr",
+    "name": "Lawrencium",
+    "mass": 262.11,
+    "common_mass": 262.10961,
+    "covalent_radii": "NaN",
+    "vdw_radii": "NaN",
+    "magnetic_moments": "NaN"
+  }
+]
