@@ -1,6 +1,6 @@
 =======================================================================
-Project Name: [你的项目名]
-Project Copyright: 2025 Battleship Aviation
+Project Name: MuKiP
+Project Copyright: 2025 Wang-Lab
 License: CC BY-NC-SA 4.0
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
